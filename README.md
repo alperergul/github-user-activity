@@ -13,4 +13,3 @@
   # Get github user activity
   github-activity <username>
 ```
-"# github-user-activity" 
